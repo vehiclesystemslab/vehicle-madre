@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "VEHICLE-MADRE: A Projection-Governed Framework for Sustainable Distributed AI Architecture"
+message: "If you use this work, please cite it using the metadata from this file."
+type: software
+authors:
+  - family-names: "Borda Milan"
+    given-names: "Roberto"
+    orcid: "https://orcid.org/0009-0009-9047-1036"
+repository-code: "https://github.com/vehiclesystemslab/vehicle-madre"
+url: "https://github.com/vehiclesystemslab/vehicle-madre"
+abstract: "VEHICLE-MADRE is a projection-governed personal AI architecture for sovereign local reasoning, ecological sustainability, memory lineage, and distributed inference."
+keywords:
+  - distributed AI
+  - edge inference
+  - personal AI architecture
+  - VEHICLE framework
+  - MADRE
+  - sustainable computing
+  - data sovereignty
+license: MIT
+version: "0.4.0"
+date-released: "2026-05-18"
