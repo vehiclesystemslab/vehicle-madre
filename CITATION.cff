@@ -8,6 +8,7 @@ authors:
     orcid: "https://orcid.org/0009-0009-9047-1036"
 repository-code: "https://github.com/vehiclesystemslab/vehicle-madre"
 url: "https://github.com/vehiclesystemslab/vehicle-madre"
+doi: "10.5281/zenodo.20263484"
 abstract: "VEHICLE-MADRE is a projection-governed personal AI architecture for sovereign local reasoning, ecological sustainability, memory lineage, and distributed inference."
 keywords:
   - distributed AI
@@ -18,5 +19,5 @@ keywords:
   - sustainable computing
   - data sovereignty
 license: MIT
-version: "0.4.0"
+version: "0.4.2"
 date-released: "2026-05-18"
