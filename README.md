@@ -141,3 +141,10 @@ Paper content and figures: [CC BY 4.0](https://creativecommons.org/licenses/by/4
 
 *VEHICLE Systems Lab / AIMTG — International Agency for Global Tension Measurement*  
 *vehiclesystemslab.com*
+## Citation
+
+Borda Milan, R. (2026). *VEHICLE-MADRE: A Projection-Governed Framework for Sustainable Distributed AI Architecture* (v0.4.2). Zenodo. https://doi.org/10.5281/zenodo.20263484
+
+## DOI
+
+https://doi.org/10.5281/zenodo.20263484
